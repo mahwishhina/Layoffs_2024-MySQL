@@ -1,4 +1,5 @@
 # 🌍 World Layoffs Data Analysis using MySQL
+![Project Banner](images/project-banner.png)
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end SQL data analysis workflow using a real-world dataset of global layoffs from **2022–2024**. The project begins with extensive data cleaning to improve data quality, followed by exploratory data analysis (EDA) to uncover workforce reduction trends across companies, industries, countries, and time periods.
